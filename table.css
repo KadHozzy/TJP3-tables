@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Halant:wght@400;500;600;700;800&display=swap');
+
+*{  padding:0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+    
+
+body{
+    font-family: Halant;
+    font-weight: 500;
+    /* text-align: center;     */
+}
+
+.container{
+    background-color: peachpuff;
+    width: 47%;
+    margin: 4% auto;
+    padding: 1% 2%;
+
+
+}
+
+.list{
+    font-size: 26px;
+}
+
+
+table{
+    /* margin: auto; */
+    width: 100%;
+
+}
+
+table, th, td {
+    border: 1px solid black ;
+    border-collapse: collapse;
+    padding: 1rem 2.5rem;
+    text-align: left;
+}
+
+th{
+    font-size: 24px;
+}
+
+td{
+    font-size: 18px;
+}
+
+button{
+    font-family: Halant;
+    font-weight: 600;
+    font-size: 18px;
+    border: none;
+    border-radius: 0.5rem;
+    background-color:rgb(165, 249, 80);
+    margin-top: 2%;
+    padding: 1% 4%;
+    
+}
+.button{
+    text-decoration: none;
+    
+}
