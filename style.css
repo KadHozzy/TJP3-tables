@@ -9,7 +9,7 @@
 body{
     font-family: Halant;
     font-weight: 500;
-    /* text-align: center;     */
+    
 }
 
 .container{
@@ -17,12 +17,15 @@ body{
     width: 47%;
     margin: 4% auto;
     padding: 1% 2%;
+}
 
-
+h1{
+    margin-bottom: 2%;
 }
 
 .list{
     font-size: 26px;
+    margin-bottom: 2%;
 }
 
 
@@ -44,7 +47,7 @@ th{
 }
 
 td{
-    font-size: 18px;
+    font-size: 19px;
 }
 
 button{
